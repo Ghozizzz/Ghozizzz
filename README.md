@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ghozizzz
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning *nothing*
+- 💞️ I’m looking to collaborate on *nothing*
+- 📫 How to reach me, DM me on twitter @Ghozizz
