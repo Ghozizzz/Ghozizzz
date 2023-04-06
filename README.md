@@ -3,4 +3,5 @@
   - 🌱 I’m currently learning various JS Framework
 - 📫 How to reach me, DM me on twitter @Ghozizz
 
-[![Ghozizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghozizzz)](https://github.com/Ghozizzz/github-readme-stats)
+![Ghozizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghozizzz&count_private=true)(https://github.com/Ghozizzz/github-readme-stats)
+
