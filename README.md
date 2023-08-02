@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghozizzz. I don't have an office, I work everywhere, Bringing my laptop anywhere i go.
+- 👋 Hi, I’m @Ghozizzz. I work everywhere, Bringing my laptop anywhere i go.
 - 👀 I’m interested in Web Development
   - 🌱 I’m currently learning various JS Framework
   - 🌱 And also a (kinda) Flutter Developer. Not making app, but fixing bugs :)
